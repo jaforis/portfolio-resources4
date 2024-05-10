@@ -1,0 +1,26 @@
+span{
+color: darkorange;
+}
+.intro{
+display: flex;
+justify-content: space-between;
+margin-right: 55px;
+margin-left: 55px;
+align-items: center;
+}
+.link{
+display: flex;
+}
+ul > li{
+display: inline;
+}
+li a {
+    text-decoration: none;
+    margin-right: 20px;
+}
+.btn-primary{
+padding: 5px;
+background-color: darkorange;
+border: 2px solid black;
+color: white;
+}
