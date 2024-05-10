@@ -24,3 +24,23 @@ background-color: darkorange;
 border: 2px solid black;
 color: white;
 }
+header{
+background-color: antiquewhite;
+}
+.intro2{
+display: flex;
+justify-content: space-between;
+}
+.description{
+margin-left: 60px;
+
+}
+button{
+border: 1px solid orangered;
+padding: 5px;
+color: orangered;
+margin-left: 5px;
+}
+.img{
+margin-right: 50px;
+}
