@@ -63,3 +63,8 @@ margin-left: 200px;
 .what{
 text-align: center;
 }
+.skills-container{
+display: flex;
+justify-content: space-between;
+margin:100px 290px 290px;
+}
